@@ -122,13 +122,6 @@ Clone o repositório, instale dependências e abra o notebook:
 
 ☁️ Abra o notebook diretamente no Google Colab: [Abrir no Colab](https://colab.research.google.com/drive/1Yh7EeOnlSsgzmsqRjjP9KLHnM_Y6ZrBy)
 
-```bash
-git clone https://github.com/brunojlf-dev/analise-vendas-clientes-produtos.git
-cd analise-vendas-clientes-produtos
-pip install -r requirements.txt
-# Abra o notebook no Jupyter ou Colab
-notebooks/analise_vendas_clientes_produtos.ipynb
-```
 ---
 
 ## Contato
