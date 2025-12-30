@@ -100,15 +100,16 @@ O objetivo é entender o faturamento por categoria, identificar os principais cl
 
 Clone o repositório, instale dependências e abra o notebook:
 
-```bash
 git clone https://github.com/brunojlf-dev/analise-vendas-clientes-produtos.git
 cd analise-vendas-clientes-produtos
 pip install -r requirements.txt
 # Abra o notebook no Jupyter ou Colab
 notebooks/analise_vendas_clientes_produtos.ipynb
 
+---
 
 ## Contato
 
 - Autor: Bruno José Lucas Ferreira  
 - GitHub: [brunojlf-dev](https://github.com/brunojlf-dev)
+
