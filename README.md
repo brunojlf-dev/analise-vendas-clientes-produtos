@@ -1,5 +1,23 @@
 # Análise de Vendas, Clientes e Produtos
 
+![Python](https://img.shields.io/badge/python-v3.10-blue)
+![Pandas](https://img.shields.io/badge/pandas-2.0.0-brightgreen)
+![Matplotlib](https://img.shields.io/badge/matplotlib-v3.7.2-orange)
+![Seaborn](https://img.shields.io/badge/seaborn-v0.12.2-purple)
+
+## Sumário
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Sobre os Dados](#sobre-os-dados)
+- [Funcionalidades](#funcionalidades)
+- [Como Usar](#como-usar)
+- [Principais Descobertas](#principais-descobertas)
+- [Contato](#contato)
+
+---
+
+## Sobre o Projeto
+
 Este projeto realiza a análise de dados de vendas, clientes e produtos utilizando Python, com bibliotecas como **pandas, numpy, matplotlib e seaborn**.  
 O objetivo é entender o faturamento por categoria, identificar os principais clientes e visualizar tendências mensais, permitindo insights estratégicos para o negócio.
 
