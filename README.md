@@ -118,7 +118,9 @@ O objetivo é entender o faturamento por categoria, identificar os principais cl
 
 Clone o repositório, instale dependências e abra o notebook:
 
-📄 Abra o notebook em: notebooks/analise_vendas_clientes_produtos.ipynb
+📄 Abra o notebook em: notebooks/Pandas_Data_Cleaning_Portfolio.ipynb
+
+☁️ Abra o notebook diretamente no Google Colab: [Abrir no Colab](https://colab.research.google.com/drive/1Yh7EeOnlSsgzmsqRjjP9KLHnM_Y6ZrBy)
 
 ```bash
 git clone https://github.com/brunojlf-dev/analise-vendas-clientes-produtos.git
