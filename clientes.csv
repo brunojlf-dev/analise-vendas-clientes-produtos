@@ -1,0 +1,206 @@
+id_cliente,nome,idade,cidade
+1,Cliente_1,24,CURITIBA 
+2,Cliente_2,33,SALVADOR
+3,Cliente_3,72,São Paulo
+4,Cliente_4,15, curitiba 
+5,Cliente_5,150,São Paulo
+6,Cliente_6,18,sao paulo  
+ 7 ,Cliente_7,30,São Paulo
+8,Cliente_8,38,
+ 9 ,Cliente_9,16,Curitiba
+10,Cliente_10,46,nan
+11,Cliente_11,38, salvador
+12,Cliente_12,26, curitiba 
+ 13 ,Cliente_13,64,
+14,Cliente_14,49,
+15,Cliente_15,47,São Paulo
+16,Cliente_16,47,rio   de  janeiro
+17,Cliente_17,75,São Paulo
+18,Cliente_18,65,sao paulo  
+ 19 ,Cliente_19,57, salvador
+20,Cliente_20,26,  RIO DE JANEIRO
+21,Cliente_21,0,São Paulo
+22,Cliente_22,79,Curitiba
+23,Cliente_23,47,CURITIBA 
+24,Cliente_24,54, curitiba 
+25,Cliente_25, 40,São   Paulo
+ 26 ,Cliente_26,57,São Paulo
+27,Cliente_27,58,Curitiba
+28,Cliente_28,43,Curitiba
+29,Cliente_29,27, curitiba 
+30,Cliente_30,26,  RIO DE JANEIRO
+31,Cliente_31,60,Curitiba
+32,Cliente_32,16,CURITIBA 
+33,Cliente_33,49,Curitiba
+34,Cliente_34,22,Curitiba
+35,Cliente_35,40,Curitiba
+36,Cliente_36, 40,nan
+37,Cliente_37,48,nan
+38,Cliente_38,21,  RIO DE JANEIRO
+39,Cliente_39,-5,São Paulo
+ 40 ,Cliente_40,72,Curitiba
+ 41 ,Cliente_41,30 anos, salvador
+42,Cliente_42,43,São Paulo
+43,Cliente_43,50,  RIO DE JANEIRO
+44,Cliente_44,35,rio   de  janeiro
+45,Cliente_45,50,rio   de  janeiro
+46,Cliente_46,24,rio de janeiro
+47,Cliente_47, 25 ,São Paulo
+ 48 ,Cliente_48,38,São Paulo
+49,Cliente_49,78,SALVADOR
+ 50 ,Cliente_50,63,sao paulo  
+51,Cliente_51,50,São   Paulo
+52,Cliente_52,38,SALVADOR
+53,Cliente_53,37,CURITIBA 
+54,Cliente_54,76,nan
+55,Cliente_55,51,nan
+56,Cliente_56,26,sao paulo  
+57,Cliente_57,69, curitiba 
+ 58 ,Cliente_58,27, curitiba 
+59,Cliente_59,37,  RIO DE JANEIRO
+60,Cliente_60,44,
+61,Cliente_61,31,sao paulo  
+62,Cliente_62,76,São   Paulo
+63,Cliente_63,27,São Paulo
+64,Cliente_64,73, curitiba 
+65,Cliente_65,33,São   Paulo
+ 66 ,Cliente_66,63,Curitiba
+67,Cliente_67,26,
+68,Cliente_68,75, salvador
+ 69 ,Cliente_69,33,São Paulo
+70,Cliente_70,23,CURITIBA 
+71,Cliente_71,NA,Curitiba
+ 72 ,Cliente_72,42,Curitiba
+73,Cliente_73,66,sao paulo  
+74,Cliente_74,30,
+75,Cliente_75,150,  RIO DE JANEIRO
+76,Cliente_76,26,CURITIBA 
+ 77 ,Cliente_77,39, curitiba 
+78,Cliente_78,66,São   Paulo
+79,Cliente_79,67,sao paulo  
+80,Cliente_80,37, curitiba 
+81,Cliente_81,30,sao paulo  
+82,Cliente_82,71,sao paulo  
+83,Cliente_83,53,sao paulo  
+84,Cliente_84,67,
+85,Cliente_85,56,  RIO DE JANEIRO
+86,Cliente_86,72,sao paulo  
+87,Cliente_87,53,rio de janeiro
+ 88 ,Cliente_88,28, salvador
+89,Cliente_89,19, curitiba 
+90,Cliente_90,49,São Paulo
+91,Cliente_91,30 anos,SALVADOR
+92,Cliente_92,32,São   Paulo
+93,Cliente_93,23,CURITIBA 
+ 94 ,Cliente_94, 40,nan
+95,Cliente_95,72,  RIO DE JANEIRO
+96,Cliente_96,31,São Paulo
+97,Cliente_97,21,Curitiba
+98,Cliente_98,60,rio   de  janeiro
+99,Cliente_99,27,rio de janeiro
+100,Cliente_100,54,nan
+ 101 ,Cliente_101,56,SALVADOR
+102,Cliente_102,23,São Paulo
+ 103 ,Cliente_103,64,nan
+ 104 ,Cliente_104,41,São Paulo
+105,Cliente_105,nan,São   Paulo
+106,Cliente_106,19,rio de janeiro
+107,Cliente_107,43,SALVADOR
+108,Cliente_108,51,Curitiba
+109,Cliente_109,52,sao paulo  
+110,Cliente_110,22, curitiba 
+111,Cliente_111,79,Curitiba
+112,Cliente_112,31,sao paulo  
+113,Cliente_113,NA,rio   de  janeiro
+114,Cliente_114,59,
+115,Cliente_115,18,
+116,Cliente_116,50,
+117,Cliente_117,desconhecido,  RIO DE JANEIRO
+118,Cliente_118,45, salvador
+119,Cliente_119,33,CURITIBA 
+ 120 ,Cliente_120,75,CURITIBA 
+121,Cliente_121,68,
+122,Cliente_122,53, curitiba 
+123,Cliente_123, 40,SALVADOR
+124,Cliente_124,33,rio de janeiro
+125,Cliente_125,53,SALVADOR
+126,Cliente_126,0,rio de janeiro
+127,Cliente_127,59,SALVADOR
+128,Cliente_128,27, salvador
+129,Cliente_129,72,  RIO DE JANEIRO
+130,Cliente_130,34,  RIO DE JANEIRO
+131,Cliente_131,n/a,
+132,Cliente_132,75,rio   de  janeiro
+133,Cliente_133,53,sao paulo  
+ 134 ,Cliente_134,15,rio   de  janeiro
+135,Cliente_135,17,nan
+136,Cliente_136,76,  RIO DE JANEIRO
+ 137 ,Cliente_137,77,  RIO DE JANEIRO
+138,Cliente_138,39,Curitiba
+139,Cliente_139,70,Curitiba
+140,Cliente_140,47,sao paulo  
+141,Cliente_141,52,São   Paulo
+142,Cliente_142,20,nan
+143,Cliente_143,72,rio   de  janeiro
+144,Cliente_144,58, curitiba 
+ 145 ,Cliente_145,59,Curitiba
+146,Cliente_146,46, curitiba 
+147,Cliente_147,59,São Paulo
+148,Cliente_148,75,Curitiba
+149,Cliente_149,61, salvador
+150,Cliente_150,35,São   Paulo
+151,Cliente_151,30 anos,nan
+152,Cliente_152,50,sao paulo  
+153,Cliente_153,33,São Paulo
+154,Cliente_154,34,nan
+155,Cliente_155,71,rio   de  janeiro
+156,Cliente_156,32,
+157,Cliente_157,61, salvador
+158,Cliente_158,63,nan
+159,Cliente_159,28, salvador
+160,Cliente_160,29, salvador
+161,Cliente_161,45, curitiba 
+ 162 ,Cliente_162,15,SALVADOR
+163,Cliente_163,68,
+164,Cliente_164,17,rio   de  janeiro
+165,Cliente_165,30,São Paulo
+166,Cliente_166,71,nan
+167,Cliente_167,30 anos,rio de janeiro
+168,Cliente_168,26,São Paulo
+169,Cliente_169, 40,SALVADOR
+170,Cliente_170,30,São Paulo
+171,Cliente_171,n/a,  RIO DE JANEIRO
+172,Cliente_172,38,rio   de  janeiro
+173,Cliente_173,42,rio de janeiro
+174,Cliente_174,22,SALVADOR
+175,Cliente_175,50, curitiba 
+176,Cliente_176,22,nan
+177,Cliente_177,72,São   Paulo
+178,Cliente_178,74,CURITIBA 
+179,Cliente_179,64,SALVADOR
+180,Cliente_180,42,sao paulo  
+181,Cliente_181,55,rio   de  janeiro
+182,Cliente_182,78,nan
+183,Cliente_183,41,
+184,Cliente_184,77,SALVADOR
+185,Cliente_185,31,  RIO DE JANEIRO
+186,Cliente_186, 25 ,CURITIBA 
+187,Cliente_187,47,  RIO DE JANEIRO
+188,Cliente_188,43,CURITIBA 
+189,Cliente_189,27,
+ 190 ,Cliente_190,60,São   Paulo
+191,Cliente_191,49,rio   de  janeiro
+192,Cliente_192,20,sao paulo  
+193,Cliente_193,150,nan
+194,Cliente_194,61, curitiba 
+ 195 ,Cliente_195,39,  RIO DE JANEIRO
+196,Cliente_196,nan,  RIO DE JANEIRO
+197,Cliente_197,24, salvador
+198,Cliente_198,70,CURITIBA 
+199,Cliente_199,44,Curitiba
+200,Cliente_200,19,São   Paulo
+ 104 ,Cliente_104,41,São Paulo
+57,Cliente_57,69, curitiba 
+166,Cliente_166,71,nan
+93,Cliente_93,23,CURITIBA 
+151,Cliente_151,30 anos,nan

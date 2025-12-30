@@ -1,0 +1,54 @@
+id_produto,nome_produto,categoria,preco_unitario
+1,Produto_1,CAR-NE,187.43
+2,Produto_2,padaria ,154.41
+ 3,Produto_3,carnes,87.53
+4,Produto_4,MERCEARIA ,160.08
+5,Produto_5,padaria ,99.6
+ 6,Produto_6, PADARIA,137.99
+7, PRODUTO_7 ,padaria ,NULO
+ 8,Produto_8,MERCEARIA ,187.43
+9,Produto_9,Carnes,99.78
+10,Produto_10,HORTI FRUTI,119.77
+11, PRODUTO_11 ,bebidas,"9,99"
+12,Produto_12,Mercearia,187.43
+13,Produto_13,horti-fruti,43.77
+14,Produto_14,Carnes,0
+15, PRODUTO_15 ,CARNE,188.87
+ 16,Produto_16,MERCEARIA ,146.78
+17,Produto_17,BEBIDAS ,141.41
+18,Produto_18,Mercearia,87.53
+19,Produto_19,bebidas,118.46
+20,Produto_20,Hortifruti,22.21
+ 21,Produto_21,CARNE,19.22
+22,Produto_22,HORTIFRUTI ,72.83
+23,Produto_23, PADARIA,-10
+24,Produto_24,carnes,146.71
+25,Produto_25,BEBIDAS ,89.76
+26,Produto_26,Carnes,22.21
+27,Produto_27,HORTIFRUTI ,138.76
+28,Produto_28,bebidas,146.71
+ 29,Produto_29,padaria ,154.41
+30,Produto_30,Hortifruti,99.78
+31, PRODUTO_31 ,HORTIFRUTI ,19.22
+32,Produto_32,CAR-NE,50.03
+33,Produto_33,carnes,89.76
+34, PRODUTO_34 ,HORTIFRUTI ,50.68
+ 35,Produto_35,HORTI FRUTI,98.4
+ 36,Produto_36,bebidas,190.1
+ 37,Produto_37,CAR-NE,60.13
+38,Produto_38,Mercearia,108.84
+ 39,Produto_39,horti-fruti,169.99
+ 40,Produto_40,carnes,161.51
+ 41,Produto_41,Mercearia,160.08
+42,Produto_42,padaria ,cem
+43,Produto_43,MERCEARIA ,87.53
+44,Produto_44,bebidas,50.68
+45,Produto_45,CARNE,146.71
+46,Produto_46,Bebidas,119.77
+47,Produto_47,BEBIDAS , 49.90 
+48,Produto_48,CARNE,8.85
+49,Produto_49,HORTI FRUTI,113.71
+50,Produto_50,CARNE,118.46
+11, PRODUTO_11 ,bebidas,"9,99"
+26,Produto_26,Carnes,22.21
+ 6,Produto_6, PADARIA,137.99
